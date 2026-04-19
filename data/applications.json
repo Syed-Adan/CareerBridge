@@ -1,0 +1,23 @@
+[
+  {
+    "student": "adan",
+    "listing_id": "i001",
+    "listing_title": "Python Developer Intern",
+    "status": "pending",
+    "applied_on": "2026-04-19 10:53"
+  },
+  {
+    "student": "adan",
+    "listing_id": "c01",
+    "listing_title": "Python for Beginners",
+    "status": "applied",
+    "applied_on": "2026-04-19 15:02"
+  },
+  {
+    "student": "adan",
+    "listing_id": "c02",
+    "listing_title": "Machine Learning with scikit-learn",
+    "status": "applied",
+    "applied_on": "2026-04-19 15:03"
+  }
+]
